@@ -43,6 +43,6 @@ This section features a collection of my projects in web development and data an
 * 🌐 Personal Portfolio Website – Responsive WordPress portfolio showcasing my skills, projects, certifications, and contact information.
 * 🗄️ MySQL Database Project – Database queries and analysis for efficient data management and reporting.
 
-* Also a button is added in the website to directly see my Dashboard Excel Project:
+* Also a button is added in the website to directly see my Salary Dashboard under Dashboard File:
 
 ![projectsection](wp_web_projectlink.png)
