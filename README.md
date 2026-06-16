@@ -16,3 +16,11 @@ You can see a video walkthrough of the website with every feature in use here- [
 * Project portfolio display
 * Contact information section
 * Easy navigation and user-friendly interface
+
+### 🛠️ Tools & Technologies
+* WordPress
+* XAMPP
+* Elementor
+* Ocean WP
+* MySQL
+* CSS
