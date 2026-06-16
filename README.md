@@ -24,3 +24,6 @@ You can see a video walkthrough of the website with every feature in use here- [
 * Ocean WP
 * MySQL
 * CSS
+
+### ⭐Hero Section
+![Herosection](wp_web_herosection.png)
