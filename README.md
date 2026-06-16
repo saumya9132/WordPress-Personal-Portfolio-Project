@@ -46,3 +46,9 @@ This section features a collection of my projects in web development and data an
 * Also a button is added in the website to directly see my Salary Dashboard under Dashboard File:
 
 ![projectsection](wp_web_projectlink.png)
+
+### 📬 Contact & Connect
+
+The Contact section provides multiple ways for visitors, recruiters, and potential clients to connect with me. It includes direct links to my professional profiles and social platforms, making it easy to explore my work, network, and discuss opportunities. A dedicated call-to-action encourages collaboration and professional engagement.
+
+![contactsection](wp_web_contactme.png)
