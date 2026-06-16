@@ -35,6 +35,14 @@ The Hero Section serves as the landing area of the portfolio website, introducin
 
 This section introduces my academic background, interests, and career aspirations while highlighting the technical skills I have developed through learning and project work. It provides visitors with an overview of my journey from commerce and business analytics to web development and data management. The skills section visually represents my proficiency in WordPress, MySQL, Microsoft Excel, HTML/CSS, and Canva through interactive progress bars, making it easy to understand my areas of expertise at a glance.
 
-### 📊My Project
+### My Project
 ![projectsection](wp_web_project.png)  ![projectsection](wp_web_charts.png)  
 
+This section features a collection of my projects in web development and data analytics. Each project reflects my technical skills, problem-solving approach, and ability to transform data and ideas into practical solutions.
+* 📊 Data Science Salary Dashboard – Interactive Excel dashboard analyzing salary trends, job roles, locations, and required skills in the data science industry.
+* 🌐 Personal Portfolio Website – Responsive WordPress portfolio showcasing my skills, projects, certifications, and contact information.
+* 🗄️ MySQL Database Project – Database queries and analysis for efficient data management and reporting.
+
+* Also a button is added in the website to directly see my Dashboard Excel Project:
+
+![projectsection](wp_web_projectlink.png)
