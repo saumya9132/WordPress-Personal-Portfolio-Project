@@ -34,3 +34,7 @@ The Hero Section serves as the landing area of the portfolio website, introducin
 ![aboutme-skills-section](wp_web_about_skill.png)
 
 This section introduces my academic background, interests, and career aspirations while highlighting the technical skills I have developed through learning and project work. It provides visitors with an overview of my journey from commerce and business analytics to web development and data management. The skills section visually represents my proficiency in WordPress, MySQL, Microsoft Excel, HTML/CSS, and Canva through interactive progress bars, making it easy to understand my areas of expertise at a glance.
+
+### 📊My Project
+![projectsection](wp_web_project.png)
+
