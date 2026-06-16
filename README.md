@@ -29,3 +29,8 @@ You can see a video walkthrough of the website with every feature in use here- [
 ![Herosection](wp_web_herosection.png)
 
 The Hero Section serves as the landing area of the portfolio website, introducing my professional identity as a WordPress Web Developer Enthusiast. It features a personalized design with a profile image, clear navigation menu, contact information, and prominent call-to-action buttons for hiring inquiries and project exploration. The section is designed to create a strong first impression while providing quick access to key areas of the website.
+
+### 👤About Me & Skills Section
+![aboutme-skills-section](wp_web_about_skill.png)
+
+This section introduces my academic background, interests, and career aspirations while highlighting the technical skills I have developed through learning and project work. It provides visitors with an overview of my journey from commerce and business analytics to web development and data management. The skills section visually represents my proficiency in WordPress, MySQL, Microsoft Excel, HTML/CSS, and Canva through interactive progress bars, making it easy to understand my areas of expertise at a glance.
